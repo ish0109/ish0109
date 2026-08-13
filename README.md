@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-powered and full-stack web projects using Django, Python, and MySQL.<br>👯 I’m looking to collaborate on Open-source, web development, UI/UX, and beginner-friendly AI projects.<br>🤝 I’m looking for help with Backend scalability, deployment, and real-world AI integration.<br>🌱 I’m currently learning Advanced Django, React, Power Bi Fundamentals and DSA.<br>💬 Ask me about: Python, Django, MySQL, Figma, UI/UX, and frontend development.<br>⚡ Fun fact I turn late-night ideas into clean UI designs and working web apps. 
+🔭 I’m currently working on AI-powered and full-stack web projects using Django, Python, Java and MySQL.<br>👯 I’m looking to collaborate on Open-source, web development, UI/UX, and beginner-friendly AI projects.<br>🤝 I’m looking for help with Backend scalability, deployment, and real-world AI integration.<br>🌱 I’m currently learning Advanced Django, React, Power Bi Fundamentals and DSA.<br>💬 Ask me about: Python, Django, MySQL, Figma, UI/UX, and frontend development.<br>⚡ Fun fact I turn late-night ideas into clean UI designs and working web apps. 
 
 
 ## 🌐 Socials:
